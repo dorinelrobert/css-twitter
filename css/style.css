@@ -101,7 +101,7 @@ transition-duration: 0.2s;
     flex-wrap: wrap;
 }
 
-.header,
+header,
 .fixed-header{
     height: 54px;
 }
